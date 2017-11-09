@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [BEDNARSKIPAUL3\PdwComputeNodeAccess]
+    AUTHORIZATION [BEDNARSKIPAUL3\PdwComputeNodeAccess];
+

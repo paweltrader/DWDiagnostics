@@ -1,0 +1,3 @@
+﻿CREATE USER [BEDNARSKIPAUL3\PdwComputeNodeAccess]
+    WITH DEFAULT_SCHEMA = [BEDNARSKIPAUL3\PdwComputeNodeAccess];
+
