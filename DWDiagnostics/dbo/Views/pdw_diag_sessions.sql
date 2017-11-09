@@ -1,4 +1,6 @@
 ﻿
+			
+			--test from paul
 			CREATE VIEW [dbo].[pdw_diag_sessions] AS
 			SELECT 
 				[session_name] as [name],

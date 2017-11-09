@@ -16,7 +16,7 @@ CREATE PROCEDURE [dbo].[UpgradeDWDiagnostics]
 		DECLARE @Sql NVARCHAR(MAX);
 		
 		------------------------------------------------------------------------------------------
-		-- Validate All Input Parameters
+		-- Validate All Input Parameters test
 		------------------------------------------------------------------------------------------
 	
 		-- Make sure the database exists.
